@@ -1,4 +1,7 @@
-# SeaIce
+# Sea ice imagery classification: combining Machine learning and High-Performance Computing 
+# XSEDE 2016 Hackathon
+Contributing authors: Alek Petty, Andrew Barrett, Xin Miao, Phil McDowell, Vivek Balasubramanian
+
 Deriving sea ice concentration, floe size, and melt pond distributions through object-based image classification algorithms based on high spatial resolution sea ice images (HRI). 
 
 # Decription
