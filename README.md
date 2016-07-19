@@ -1,7 +1,7 @@
 # XSEDE 2016 Polar Compute Hackathon - Sea ice team
 ### Sea ice imagery classification with Machine learning and High-Performance Computing 
-#### Contributing authors: Alek Petty, Andrew Barrett, Xin Miao, Phil McDowell, Vivek Balasubramanian
-#### Thanks also to the hackathon organizers of the Polar Research Coordination Network (RCN)
+Contributing authors: Alek Petty, Andrew Barrett, Xin Miao, Phil McDowell, Vivek Balasubramanian
+Thanks also to the hackathon organizers of the Polar Research Coordination Network (RCN)
 
 Deriving sea ice concentration, floe size, and melt pond distributions through object-based image classification algorithms based on high spatial resolution sea ice images (HRI). 
 
